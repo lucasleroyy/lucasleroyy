@@ -34,7 +34,7 @@ Feel free to reach out if you want to discuss exciting projects or just exchange
 
 #### Let's Connect! 🌐
 
-- [LinkedIn](https://www.linkedin.com/in/lucas-leroy-3a9530261/))
+- [LinkedIn](https://www.linkedin.com/in/lucas-leroy-3a9530261/)
 - [Portfolio](link_to_your_portfolio)
 
 Thanks for visiting my GitHub! 🚀
