@@ -25,7 +25,7 @@ I'm Lucas Leroy, a master's student in my fourth year at Polytech Montpellier, s
 
 #### Current Projects 🚧
 
-- 🌟 [Project 1 Name](https://liberer-lartiste.onrender.com)
+- 🌟 [Project 1 Libérer L'artiste](https://liberer-lartiste.onrender.com)
 
 
 #### Get in Touch 📫
