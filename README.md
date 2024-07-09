@@ -7,7 +7,7 @@ I'm Lucas Leroy, a master's student in my fourth year at Polytech Montpellier, s
 - 🌐 Field of Study: Computer Science and Management
 - 📚 Education Level: Master's, 4th Year
 - 🏫 School: Polytech Montpellier
-- 🎉 Age: 22 years old
+- 🎉 Age: 23 years old
 
 #### My Interests 💡
 
