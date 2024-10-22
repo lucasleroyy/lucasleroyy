@@ -1,6 +1,6 @@
 ### Hello everyone! 👋
 
-I'm Lucas Leroy, a master's student in my fourth year at Polytech Montpellier, specializing in computer science and management. 🎓 Currently, I am enthusiastic about the intersection of technology and business.
+I'm Lucas Leroy, a master's student in my final year at Polytech Montpellier, specializing in computer science and management. 🎓 Currently, I am enthusiastic about the intersection of technology and business.
 
 #### About Me 🚀
 
